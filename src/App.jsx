@@ -70,7 +70,7 @@ const App = () => {
           handleDayClick={handleDayClick}
         />
 
-        {showEventModal && (
+        {showEventModal && ( 
           <EventModal
             day={selectedDay}
             events={events[selectedDay.toISOString().split('T')[0]] || []}
