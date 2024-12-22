@@ -13,6 +13,6 @@ A simple event calendar application where users can add, edit, and delete events
    ```bash
    git clone <repository-url>
 diploy link- 
-[Text to display](https://calendar-qa82qjpna-maji1505s-projects.vercel.app/)
+[My Calendar app](https://calendar-qa82qjpna-maji1505s-projects.vercel.app/)
 
 
